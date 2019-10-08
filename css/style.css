@@ -24,10 +24,10 @@ body,
 
 /* Navbar animation */
 .navbar {
-  background-color: rgba(0, 0, 0, 0.3); }
+  background-color: #edad78; }
 
 .top-nav-collapse {
-  background-color: #1C2331; }
+  background-color: #e4812f; }
 
 /* Adding color to the Navbar on mobile */
 @media only screen and (max-width: 768px) {
